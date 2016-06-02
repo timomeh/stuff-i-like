@@ -10,6 +10,7 @@ A list of awesome things on the Internet and everything I like and want to remem
 
 - [Videos](#videos)
 	- [Science](#science)
+	- [Documentation](#documentation)
 
 <!-- /TOC -->
 
@@ -18,3 +19,7 @@ A list of awesome things on the Internet and everything I like and want to remem
 ### Science
 
 - [You Are Two](https://www.youtube.com/watch?v=wfYbgdo8e-8) by CPG Grey [4:57]
+
+### Documentation
+
+- [Edgar Wright - How to Do Visual Comedy](https://www.youtube.com/watch?v=3FOzD4Sfgag) by Every Frame a Painting [7:59]
