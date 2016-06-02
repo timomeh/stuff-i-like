@@ -10,7 +10,9 @@ A list of awesome things on the Internet and everything I like and want to remem
 
 - [Videos](#videos)
 	- [Science](#science)
+	- [Woah, awww and other feelings](#woah-awww-and-other-feelings)
 	- [Documentation](#documentation)
+	- [Comedy](#comedy)
 
 <!-- /TOC -->
 
@@ -18,8 +20,20 @@ A list of awesome things on the Internet and everything I like and want to remem
 
 ### Science
 
-- [You Are Two](https://www.youtube.com/watch?v=wfYbgdo8e-8) by CPG Grey [4:57]
+- [You Are Two](https://www.youtube.com/watch?v=wfYbgdo8e-8) by CGP Grey [4:57]
+- [Are We Living In A Simulation?](https://www.youtube.com/watch?v=p7293jJxUhg) by exurb1a [4:05]
+
+### Woah, awww and other feelings
+
+- [Love is the Greatest Pain](https://www.youtube.com/watch?v=fYwrkzNtlgI) by Shots of Awe [2:56]
 
 ### Documentation
 
 - [Edgar Wright - How to Do Visual Comedy](https://www.youtube.com/watch?v=3FOzD4Sfgag) by Every Frame a Painting [7:59]
+- [Michel Abdollahi: Im Nazidorf | Panorama - die Reporter | NDR](https://www.youtube.com/watch?v=Cl__BD858yc) by ARD [30:49]
+- [Humans Need Not Apply](https://www.youtube.com/watch?v=7Pq-S557XQU) by CGP Grey [15:00]
+
+### Comedy
+
+- [How To Lose Weight in 4 Easy Steps!](https://www.youtube.com/watch?v=9mbp0DugfCA) by buh [7:32]
+- [Guacamole - You Suck at Cooking (episode 1)](https://www.youtube.com/watch?v=0weCqOLSPfs) by You Suck At Cooking [3:25]
