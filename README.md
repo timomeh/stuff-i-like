@@ -38,3 +38,7 @@ A list of awesome things on the Internet and everything I like and want to remem
 - [How To Lose Weight in 4 Easy Steps!](https://www.youtube.com/watch?v=9mbp0DugfCA) by buh [7:32]
 - [Guacamole - You Suck at Cooking (episode 1)](https://www.youtube.com/watch?v=0weCqOLSPfs) by You Suck At Cooking [3:25]
 - [Bitter & Sour Foods Taste SWEET!? - Miracle Frooties](https://www.youtube.com/watch?v=TCkrvU_zTjw) by ChannelSuperFun [8:10]
+
+## Articles
+
+- [Dateiname LOG.TXT](http://www.taz.de/Keylogger-Affaere-in-der-taz/!5307828/) by taz.de, June 4th 2016
