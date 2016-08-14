@@ -13,6 +13,7 @@ A list of awesome things on the Internet and everything I like and want to remem
 	- [Woah, awww and other feelings](#woah-awww-and-other-feelings)
 	- [Documentation](#documentation)
 	- [Comedy](#comedy)
+	- [Talks](#talks)
 - [Articles](#articles)
 
 <!-- /TOC -->
@@ -40,6 +41,10 @@ A list of awesome things on the Internet and everything I like and want to remem
 - [Guacamole - You Suck at Cooking (episode 1)](https://www.youtube.com/watch?v=0weCqOLSPfs) by You Suck At Cooking [3:25]
 - [Bitter & Sour Foods Taste SWEET!? - Miracle Frooties](https://www.youtube.com/watch?v=TCkrvU_zTjw) by ChannelSuperFun [8:10]
 
+
+### Talks
+
+- [Ze Frank: My web playroom](https://www.youtube.com/watch?v=3gSSNHO1dDs) by Ze Frank (TED Talk) [18:00]
 
 
 ## Articles
