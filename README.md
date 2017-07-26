@@ -35,6 +35,7 @@ _I'm not including every video I've ever liked here. Just a bunch of hints on wh
 
 - [Love is the Greatest Pain](https://www.youtube.com/watch?v=fYwrkzNtlgI) by Shots of Awe [2:56]
 - [The Video Was Called "Quitting" But People Said It Was Clickbait So Now This Is The Title](https://www.youtube.com/watch?v=5aZiRrW9KAE) by Jake Roper [11:59]
+- [Optimistic Nihilism](https://www.youtube.com/watch?v=MBRqu0YOH14) by Kurzgesagt – In a Nutshell [6:09]
 
 ### Documentation
 
